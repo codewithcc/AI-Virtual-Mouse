@@ -2,7 +2,7 @@
 Project : AI Virtual Mouse
 Developer : Chanchal Roy
 Date : 27th Oct 2022
-GitHub : 
+GitHub : https://github.com/Chexa12cc/AI-Virtual-Mouse
 """
 import HandDec
 import cv2
